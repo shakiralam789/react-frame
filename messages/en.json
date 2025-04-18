@@ -1,0 +1,11 @@
+{
+    "welcome": "Welcome to our application",
+    "dashboard": {
+      "title": "Dashboard",
+      "greeting": "Hello, {name}!"
+    },
+    "buttons": {
+      "save": "Save",
+      "cancel": "Cancel"
+    }
+  }
